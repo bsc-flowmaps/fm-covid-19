@@ -3,8 +3,8 @@ echo $EVS
 
 for ev in $EVS; do
 	echo $ev
-	FILENAME=data/$ev/$ev.covid-19.parquet
+	FILENAME=data/$ev/$ev.covid-19.csv
 	mkdir -p data/$ev/
-	flowmaps-data covid19 download --ev $ev --output-format parquet --output-file $FILENAME
+	flowmaps-data covid19 download --ev $ev --output-format csv --output-file $FILENAME
 done
 
