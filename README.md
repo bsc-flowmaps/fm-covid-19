@@ -29,3 +29,15 @@ Each record has an identifier, the associated date, the corresponding identifier
 
 For information about data sources, visit: https://flowmaps.life.bsc.es/flowboard/data
 
+
+## Dashboard
+
+https://flowmaps.life.bsc.es/flowboard/board_incidence/
+
+<a href="https://flowmaps.life.bsc.es/flowboard/board_incidence/">
+  <img src="https://i.ibb.co/KKjGz2V/Screenshot-2021-02-22-https-flowmaps-life-bsc-es.png"
+     alt="Incidence"
+     height=350/>
+</a>  
+
+
